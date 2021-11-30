@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Boobalan Ravi](mailto:boobalan.ravi@owasp.org)
+* [Jeyan Rajavel](mailto:jeyan.rajavel@owasp.org)
