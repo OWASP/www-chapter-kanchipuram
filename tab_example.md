@@ -1,11 +1,10 @@
 ---
-title: event
-layout:  null
+title: Event
+layout:  true
 tab: true
 order: 1
-tags: event-tag
+tags: Event-tag
 ---
 
-## event
-
+## Event
 Welcome To OWASP KANCHIPURAM
