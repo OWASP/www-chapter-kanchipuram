@@ -64,7 +64,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Next Meeting/Event
 ---------------------
-Replace 
+{% include example_header.html %}
 
 ```
 {info.md}
