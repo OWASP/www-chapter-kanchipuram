@@ -59,7 +59,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Next Meeting/Event
 ---------------------
-We are planning for that. We release announcement soon.
+{% https://zoom.us/j/93854408094?pwd=SVlKZm1ybHlQODI1bWhsdGxTUGRVUT09 %}
 
 ```
 {info.md}
