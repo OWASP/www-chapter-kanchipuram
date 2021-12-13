@@ -37,7 +37,7 @@ We are conducting our first event on
 
 Time : 4:00PM IST
 
-Click here => [How to start CTFs 101](https://zoom.us/j/93854408094?pwd=SVlKZm1ybHlQODI1bWhsdGxTUGRVUT09) to join the meeting
+Click here => [How to start CTFs 101](https://zoom.us/j/93854408094?pwd=SVlKZm1ybHlQODI1bWhsdGxTUGRVUT09) to join the meeting.
 <!-- You should delete this comment
 
 {front matter for this file}
