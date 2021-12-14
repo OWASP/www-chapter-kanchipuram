@@ -32,9 +32,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 We are conducting our first event on
-This Friday
-
-Click here => [How to start CTFs 101](https://zoom.us/j/93854408094?pwd=SVlKZm1ybHlQODI1bWhsdGxTUGRVUT09) to join the meeting.
+This Friday 17.12.21,4:00 PM
 <!-- You should delete this comment
 
 {front matter for this file}
