@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+  {% include col-sidebar.html %}
 
   <body>
-
-    {% include col-sidebar.html %}
+       
+       {% include chapter_events.html group=page.meetup-group %}
+    
 
     <div class="content container">
       {{ content }}
