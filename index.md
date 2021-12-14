@@ -32,10 +32,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 We are conducting our first event on
-
- Date: 17.12.2021.
-
-Time : 4:00PM IST.
+This Friday
 
 Click here => [How to start CTFs 101](https://zoom.us/j/93854408094?pwd=SVlKZm1ybHlQODI1bWhsdGxTUGRVUT09) to join the meeting.
 <!-- You should delete this comment
