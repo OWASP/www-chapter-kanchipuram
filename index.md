@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar.html
+layout: col-sidebar
 title: OWASP Kanchipuran
 tags: example-tag
 region: Asia
