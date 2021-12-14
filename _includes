@@ -1,3 +1,0 @@
-{% include /_layouts/col-sidebar %}
-
-{% include chapter_events.html group=page.meetup-group %}
