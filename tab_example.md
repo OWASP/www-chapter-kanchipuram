@@ -1,10 +1,10 @@
 ---
 title: Event
-layout:  col-sidebar
+layout:  null
 tab: true
 order: 1
-tags: Event-tag
+tags: example-tag
 ---
 
-## Event
+## Example
 Welcome To OWASP KANCHIPURAM
