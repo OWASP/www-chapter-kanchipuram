@@ -8,16 +8,12 @@ meetup-group: OWASP-Kanchipuram-Chapter
 
 ---
 
-<div style='color:black;'>
-
 OWASP KANCHIPURAM was founded in DEC,2021.
 We are just started our chapter and planning for conduct meetings and workshops
 
-<ul>
-<li>Thanks To OWASP For Giving This Opportunity </li>
-</ul>
+<!-- just changing to markdown to demonstrate simplicity versus using HTML -->
+- Thanks To OWASP For Giving This Opportunity
 
-</div>
 
 ## Welcome
 We Are Welcomes You All For Our Kanchipuram Chapter page
