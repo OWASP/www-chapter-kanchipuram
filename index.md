@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Kanchipuran
+title: OWASP Kanchipuram
 tags: example-tag
 region: Asia
 meetup-group:
