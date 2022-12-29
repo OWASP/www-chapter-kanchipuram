@@ -30,7 +30,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-We will conduct event soon wait for it.
-[Next Event](https://us06web.zoom.us/j/84473907186?pwd=WFY1UUtzRUlPcTdQRnNpbGYzMlRaQT09)
+[Mobile Application 101](https://us06web.zoom.us/j/84473907186?pwd=WFY1UUtzRUlPcTdQRnNpbGYzMlRaQT09)
 
 {% include chapter_events.html group=page.meetup-group %}
