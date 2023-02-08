@@ -40,6 +40,19 @@ Please change these items to indicate the actual information you wish to present
 - tags: event-tag
 - region: Asia
 ```
+## Email Format :
+
+* Speaker name
+* Job Role
+* Company / Organization
+* Country
+* Email ID
+* Contact Number
+* Speaker Profile
+* Presentation Details
+* Name / Title of the Presentation
+* Abstract of the presentation
+* Presentation time required
 
 
 <!-- {copy for this file (index.md)}
