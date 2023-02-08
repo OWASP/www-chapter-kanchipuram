@@ -24,6 +24,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+*No events currently scheduled.*
 <!-- {% include chapter_events.html group=page.meetup-group %} -->
 
 
