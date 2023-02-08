@@ -28,7 +28,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 
 
-Standard Chapter Page Template
+<!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -40,6 +40,8 @@ Please change these items to indicate the actual information you wish to present
 - tags: event-tag
 - region: Asia
 ```
+-->
+
 ## Email Format :
 
 * Speaker name
