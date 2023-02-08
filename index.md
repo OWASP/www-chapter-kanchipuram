@@ -29,7 +29,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to our OWASP KANCHIPURAM Chapter. Kanchipuram chapter has been found on december 2021.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -42,7 +42,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-<!-- You should delete this comment
+
 
 Standard Chapter Page Template
 This is an example of a Project or Chapter page.
