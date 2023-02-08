@@ -1,5 +1,5 @@
 ### Leader
 
-* [first name and surname](mailto:)
-* [first name and surname](mailto:)
+* [Boobalan](mailto:boobalan.ravi@owasp.org)
+* [Manikandan](mailto:manikandan.natrayan@owasp.org)
 
