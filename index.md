@@ -24,7 +24,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-*No events currently scheduled.*
+{% include chapter_events.html group=page.meetup-group %}
 
 
 
@@ -40,21 +40,23 @@ Please change these items to indicate the actual information you wish to present
 - tags: event
 - region: Asia
 ```
+## Speakers
 
-## Email Format :
+Would you like to speak on the upcoming OWASP Kanchipuram Webinar? [Contact Us](mailto:boobalan.ravi@owasp.org) or [Register Here](https://forms.gle/93FokLY2m2fP7su4A)
 
-* Speaker name
-* Job Role
-* Company / Organization
-* Country
-* Email ID
-* Contact Number
-* Speaker Profile
-* Presentation Details
-* Name / Title of the Presentation
-* Abstract of the presentation
-* Presentation time required
+**Email Format :**
 
+- Speaker name
+- Job Role
+- Company / Organization
+- Country
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
 
 <!-- {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
