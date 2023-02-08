@@ -37,7 +37,7 @@ Please change these items to indicate the actual information you wish to present
 ```
 - layout: col-sidebar
 - title: OWASP KANCHIPURAM
-- tags: example-tag
+- tags: event-tag
 - region: Asia
 ```
 
