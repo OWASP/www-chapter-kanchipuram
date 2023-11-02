@@ -14,7 +14,7 @@ meetup-group:
 
 
 ## Welcome
-Welcome to our OWASP KANCHIPURAM Chapter. Kanchipuram chapter has been found on december 2021. The main goal of this chapter is to enrich the infosec community.
+Welcome to our OWASP Kanchipuram Chapter. Kanchipuram chapter has been found on December 2021. The main goal of this chapter is to enrich the infosec community.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
